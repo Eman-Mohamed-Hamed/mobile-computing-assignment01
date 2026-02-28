@@ -31,6 +31,9 @@ Below is a professional mockup representing the final design and functionality o
 
 ![Target Goals App Mockup](todo_app_mockup.png)
 
+You can watch a full demo of the runtime on my local machine (Click on the Image below):
+
+[![Watch the video demo](assignment01.png)](https://drive.google.com/file/d/1AnNKLX2b1K0cUD30Zfwel65KX_yGquIE/view?usp=sharing)
 ---
 
 ## 3. Implementation Details
@@ -61,5 +64,6 @@ Below is a professional mockup representing the final design and functionality o
 - **GitHub Repo**: [https://github.com/Eman-Mohamed-Hamed/mobile-computing-assignment01]
 
 *Note: As this is a local development environment, please copy the code into your Expo Snack / GitHub account as per instructions.*
+
 
 
