@@ -60,6 +60,7 @@ Below is a professional mockup representing the final design and functionality o
 
 ## 5. Deployment Links
 - **Expo Snack**[https://snack.expo.dev/@emy5/assignment01_todolist]
-- **GitHub Repo**: [Link to be added]
+- **GitHub Repo**: [https://github.com/Eman-Mohamed-Hamed/mobile-computing-assignment01]
 
 *Note: As this is a local development environment, please copy the code into your Expo Snack / GitHub account as per instructions.*
+
