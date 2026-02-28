@@ -1,8 +1,6 @@
 # Assignment 1 Report - To-Do List App
-
-**Course Code**: MC2026  
-**Developer**: [Your Name]  
-**Topic**: React Native/Expo To-Do List Implementation
+**Developer**: [Eman Mohammed Hamed]  
+**Subject**: Mobile Computing
 
 ---
 
@@ -63,4 +61,5 @@ Below is a professional mockup representing the final design and functionality o
 - **GitHub Repo**: [https://github.com/Eman-Mohamed-Hamed/mobile-computing-assignment01]
 
 *Note: As this is a local development environment, please copy the code into your Expo Snack / GitHub account as per instructions.*
+
 
