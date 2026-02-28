@@ -63,7 +63,6 @@ You can watch a full demo of the runtime on my local machine (Click on the Image
 - **Expo Snack**[https://snack.expo.dev/@emy5/assignment01_todolist]
 - **GitHub Repo**: [https://github.com/Eman-Mohamed-Hamed/mobile-computing-assignment01]
 
-*Note: As this is a local development environment, please copy the code into your Expo Snack / GitHub account as per instructions.*
 
 
 
